@@ -1,16 +1,9 @@
-# Go资源精选中文版(拒绝大杂烩)
+# Go资源精选中文版
 
 - *Go语言QQ群: 102319854, 1055927514*
-- *光谷码农课堂: https://study.163.com/provider/480000001914454/index.htm*
+- *凹语言(凹读音“Wa”)(The Wa Programming Language): https://github.com/wa-lang/wa*
 
 ----
-
-加入QQ群：102319854，中国第一个Go语言QQ群
-
-关注微信公众号(光谷码农/guanggu-coder)，底层菜单扫码可进群
-
-![](https://chai2010.cn/advanced-go-programming-book/weixin-guanggu-coder-logo.png)
-
 
 Go中国讨论组: https://groups.google.com/forum/#!forum/golang-china
 
